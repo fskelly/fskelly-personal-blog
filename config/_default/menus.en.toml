@@ -1,0 +1,54 @@
+  [[main]]
+  name = "Home"
+  identifier = "home"
+  weight = 100
+  url = "/"
+
+  [[main]]
+  name = "Posts"
+  weight = 200
+  identifier = "posts"
+  url = "/post/"
+
+#  [[main]]
+#  name = "Portfolio"
+#  weight = 300
+#  identifier = "portfolio"
+#  url = "/portfolio/"
+
+  [[main]]
+  name = "About"
+  weight = 600
+  identifier = "about"
+  url = "/about/"
+
+  [[main]]
+  name = "Home Automation"
+  weight = 300
+  identifier = "home automation"
+  url = "/series/home-automation/"
+
+  [[main]]
+  name = "Sonoff"
+  weight = 400
+  identifier = "sonoff"
+  url = "/tags/sonoff/"
+
+  [[main]]
+  name = "Shelly1"
+  weight = 400
+  identifier = "shelly1"
+  url = "/tags/shelly1/"
+
+
+#  [[main]]
+#  name = "Contact"
+#  weight = 500
+#  identifier = "contact"
+#  url = "/contact/"
+
+  [[footer]]
+  name = "imprint"
+  weight = 1
+  identifier = "imprint"
+  url = "/imprint/"
