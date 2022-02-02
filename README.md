@@ -1,0 +1,1 @@
+# automate-the-house-blog
