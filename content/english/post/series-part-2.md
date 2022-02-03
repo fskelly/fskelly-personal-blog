@@ -2,6 +2,7 @@
 author: Hugo Authors
 title: Series Part 2
 date: 2021-08-15
+draft: true
 description: A brief guide to how to setup series part 2
 series:
   - series-setup

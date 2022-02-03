@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Automate the House</title>
+    <link>https://automation.fskelly.com/post/</link>
+    <description>Recent content in Posts on Automate the House</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 17 Jan 2022 12:26:36 +0000</lastBuildDate><atom:link href="https://automation.fskelly.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sonoff 4ch Pro R2 with ESPHome</title>
+      <link>https://automation.fskelly.com/post/2022/sonoff4chpror2esphome/</link>
+      <pubDate>Mon, 17 Jan 2022 12:26:36 +0000</pubDate>
+      
+      <guid>https://automation.fskelly.com/post/2022/sonoff4chpror2esphome/</guid>
+      
+        <description>In this post, I am going to talk about the process of converting the Sonoff 4CH Pro R2 to ESPHome and how to now connect it to Home Assistant</description>
+      
+    </item>
+    
+    <item>
+      <title>Shelly 1 Lamps</title>
+      <link>https://automation.fskelly.com/post/2021/shelly1lamps/</link>
+      <pubDate>Tue, 05 Jan 2021 09:10:57 +0200</pubDate>
+      
+      <guid>https://automation.fskelly.com/post/2021/shelly1lamps/</guid>
+      
+        <description>Use Case I had been using a WiFi bulb with the lamps to control the lighting, this was working very well.</description>
+      
+    </item>
+    
+    <item>
+      <title>Sonoff Flashing Tasmota</title>
+      <link>https://automation.fskelly.com/post/2018/flashingtasmota/</link>
+      <pubDate>Sun, 12 Aug 2018 13:04:05 +0200</pubDate>
+      
+      <guid>https://automation.fskelly.com/post/2018/flashingtasmota/</guid>
+      
+        <description>So, there are a ton of useful guides out on the internet and YouTube on how to do this as they are really detailed, for example, I was using this one by DrZzs and this is a great tutorial and this post this my &amp;ldquo;issues&amp;rdquo; and troubleshooting would not have been possible without the great tools mentioned by DrZzs, such as Termite and of course the amazing Tasmota firmware by Theo.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

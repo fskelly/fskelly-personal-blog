@@ -5,7 +5,7 @@ Description: ""
 Tags: [esphome, sonoff]
 Categories: [flashing]
 DisableComments: false
-draft: true
+draft: false
 author: "Fletcher Kelly"
 series:
   - home-automation
@@ -15,13 +15,13 @@ In this post, I am going to talk about the process of converting the Sonoff 4CH 
 
 Tools needed  
 
-1. FTDI Converter
-1. Dupont cables
-1. USB Cable
-1. Sonoff 4ch Pro R2
-1. ESPHome YAML code
-1. ESPHome Flasher
-1. Home Assistant
+1. FTDI Converter {{< figure src="/images/2022/sonoffProFlashESPHome/ftdiProgrammer.jpg" alt="ftdiProgrammer" height="200" width="100" >}}
+1. Dupont cables {{< figure src="/images/2022/sonoffProFlashESPHome/dupontCables.jpg" alt="dupontCables" height="200" width="100" >}}
+1. USB Cable {{< figure src="/images/2022/sonoffProFlashESPHome/usbCable.jpg" alt="dupontCables" height="200" width="100" >}}
+1. Sonoff 4ch Pro R2 {{< figure src="/images/2022/sonoffProFlashESPHome/sonoff4chOpen.jpg" alt="dupontCables" height="200" width="100" >}}
+1. [ESPHome YAML code](/content/english/post/2022/sonoff4chpror2esphome/sonoff-pro-4ch-test.yaml)
+1. [ESPHome Flasher](https://github.com/esphome/esphome-flasher)
+1. [Home Assistant](https://home-assistant.io)
 
 ### FTDI  Converter
 
@@ -38,6 +38,7 @@ Connects the FTDI converter to the computer
 #### Cable connections
 
 Computer → USB Cable → FTDI Converter → Dupont cables → Sonoff 4ch Pro R2
+{{< figure src="/images/2022/sonoffProFlashESPHome/sonoffHeaderPlug.jpg" alt="sonoffHeaderPlug" height="200" width="100" >}}  
 
 ### Sonoff 4Ch Pro R2
 
@@ -47,8 +48,6 @@ This is the device we are going to convert to ESPHome firmware
 
 **Remember to use secrets (! secret)**  
 You can find the file [here](/content/english/post/2022/sonoff4chpror2esphome/sonoff-pro-4ch-test.yaml)
-
-
 
 ```yml
 # Basic Config
@@ -151,5 +150,3 @@ Currently found [here](https://github.com/esphome/ESPHome-Flasher)
 Great guide [here](https://esphome.io/guides/getting_started_hassio.html) to install the integration.
 
 Added the flashed ESPHome device to Home Assistant using the ESPHome integration
-
-{{< figure src="/images/2022/fsk.jpg" title="Steve Francia" height="200" width="100" >}}

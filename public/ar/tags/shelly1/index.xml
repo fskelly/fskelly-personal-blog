@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>shelly1 on Automate the House with Fletcher Kelly</title>
+    <link>https://automation.fskelly.com/ar/tags/shelly1/</link>
+    <description>Recent content in shelly1 on Automate the House with Fletcher Kelly</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 05 Jan 2021 09:10:57 +0200</lastBuildDate><atom:link href="https://automation.fskelly.com/ar/tags/shelly1/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Shelly 1 Lamps</title>
+      <link>https://automation.fskelly.com/ar/english/post/2021/shelly1lamps/</link>
+      <pubDate>Tue, 05 Jan 2021 09:10:57 +0200</pubDate>
+      
+      <guid>https://automation.fskelly.com/ar/english/post/2021/shelly1lamps/</guid>
+      
+        <description>Use Case I had been using a WiFi bulb with the lamps to control the lighting, this was working very well.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

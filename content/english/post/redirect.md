@@ -6,6 +6,7 @@ description = "Usage of redirectUrl"
 tags = [
     "redirect", "redirectUrl",
 ]
+draft = true
 redirectUrl="https://gohugo.io"
 +++
 

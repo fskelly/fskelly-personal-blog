@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tasmota on Automate the House</title>
+    <link>https://automation.fskelly.com/tags/tasmota/</link>
+    <description>Recent content in tasmota on Automate the House</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 12 Aug 2018 13:04:05 +0200</lastBuildDate><atom:link href="https://automation.fskelly.com/tags/tasmota/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sonoff Flashing Tasmota</title>
+      <link>https://automation.fskelly.com/post/2018/flashingtasmota/</link>
+      <pubDate>Sun, 12 Aug 2018 13:04:05 +0200</pubDate>
+      
+      <guid>https://automation.fskelly.com/post/2018/flashingtasmota/</guid>
+      
+        <description>So, there are a ton of useful guides out on the internet and YouTube on how to do this as they are really detailed, for example, I was using this one by DrZzs and this is a great tutorial and this post this my &amp;ldquo;issues&amp;rdquo; and troubleshooting would not have been possible without the great tools mentioned by DrZzs, such as Termite and of course the amazing Tasmota firmware by Theo.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

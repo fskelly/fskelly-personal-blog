@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Automate the House with Fletcher Kelly</title>
+    <link>https://automation.fskelly.com/ar/tags/</link>
+    <description>Recent content in Tags on Automate the House with Fletcher Kelly</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 17 Jan 2022 12:26:36 +0000</lastBuildDate><atom:link href="https://automation.fskelly.com/ar/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>esphome</title>
+      <link>https://automation.fskelly.com/ar/tags/esphome/</link>
+      <pubDate>Mon, 17 Jan 2022 12:26:36 +0000</pubDate>
+      
+      <guid>https://automation.fskelly.com/ar/tags/esphome/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>sonoff</title>
+      <link>https://automation.fskelly.com/ar/tags/sonoff/</link>
+      <pubDate>Mon, 17 Jan 2022 12:26:36 +0000</pubDate>
+      
+      <guid>https://automation.fskelly.com/ar/tags/sonoff/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>shelly1</title>
+      <link>https://automation.fskelly.com/ar/tags/shelly1/</link>
+      <pubDate>Tue, 05 Jan 2021 09:10:57 +0200</pubDate>
+      
+      <guid>https://automation.fskelly.com/ar/tags/shelly1/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>zwave</title>
+      <link>https://automation.fskelly.com/ar/tags/zwave/</link>
+      <pubDate>Tue, 05 Jan 2021 09:10:57 +0200</pubDate>
+      
+      <guid>https://automation.fskelly.com/ar/tags/zwave/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>tasmota</title>
+      <link>https://automation.fskelly.com/ar/tags/tasmota/</link>
+      <pubDate>Sun, 12 Aug 2018 13:04:05 +0200</pubDate>
+      
+      <guid>https://automation.fskelly.com/ar/tags/tasmota/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>index</title>
+      <link>https://automation.fskelly.com/ar/tags/index/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://automation.fskelly.com/ar/tags/index/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>
