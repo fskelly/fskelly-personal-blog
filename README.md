@@ -10,7 +10,8 @@ My folder structure looks like this
 content  
 |---post
     |---year
-        |---postTitle.md
+        |---postTitle
+            |---index.md
 ```
 
 ```bash
