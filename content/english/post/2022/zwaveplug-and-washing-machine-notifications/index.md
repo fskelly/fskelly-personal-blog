@@ -8,6 +8,7 @@ DisableComments: false
 author: "Fletcher Kelly"
 series:
   - home-automation
+draft: true
 ---
 
 In this post, I show you how I use a Z-Wave Plug (Fibaro) to get more monitoring around power consumption and then use this to drive notifications.
