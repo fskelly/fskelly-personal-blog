@@ -41,8 +41,8 @@ jobs:
           azcliversion: 2.30.0
           inlineScript: |
             az account set --subscription 5c891d37-cc30-456c-aede-3416b56377be
-            az storage blob upload-batch --account-name ${{ secrets.AZURE_STORAGE_ACCOUNT }} --auth-mode key -d '$web' -s $GITHUB_WORKSPACE/public
-
+#            az storage blob upload-batch --account-name ${{ secrets.AZURE_STORAGE_ACCOUNT }} --auth-mode key -d '$web' -s $GITHUB_WORKSPACE/public
+            az storage blob upload-batch --account-name ${{ secrets.weblog_storage_account }} --auth-mode key -d '$web' -s $GITHUB_WORKSPACE/public
   # Azure logout
       - name: logout
         run: |
