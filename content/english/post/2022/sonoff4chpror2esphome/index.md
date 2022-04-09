@@ -47,7 +47,7 @@ This is the device we are going to convert to ESPHome firmware
 ### ESPHome Yaml
 
 **Remember to use secrets (! secret)**  
-You can find the file [here](/content/english/post/2022/sonoff4chpror2esphome/sonoff-pro-4ch-test.yaml)
+You can find the file [here](/post/2022/sonoff4chpror2esphome/sonoff-pro-4ch-test.yaml)
 
 ```yml
 # Basic Config
