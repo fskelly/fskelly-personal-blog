@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://automation.fskelly.com/</loc>
-    <lastmod>2022-01-17T12:26:36+00:00</lastmod>
+    <lastmod>2022-03-03T11:29:18+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
@@ -16,7 +16,7 @@
                 />
   </url><url>
     <loc>https://automation.fskelly.com/categories/</loc>
-    <lastmod>2022-01-17T12:26:36+00:00</lastmod>
+    <lastmod>2022-03-03T11:29:18+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
@@ -27,6 +27,103 @@
                 hreflang="en"
                 href="https://automation.fskelly.com/categories/"
                 />
+  </url><url>
+    <loc>https://automation.fskelly.com/tags/home-assistant/</loc>
+    <lastmod>2022-03-03T11:29:18+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://automation.fskelly.com/ar/tags/home-assistant/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://automation.fskelly.com/tags/home-assistant/"
+                />
+  </url><url>
+    <loc>https://automation.fskelly.com/series/home-automation/</loc>
+    <lastmod>2022-03-03T11:29:18+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://automation.fskelly.com/ar/series/home-automation/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://automation.fskelly.com/series/home-automation/"
+                />
+  </url><url>
+    <loc>https://automation.fskelly.com/tags/node-red/</loc>
+    <lastmod>2022-03-03T11:29:18+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://automation.fskelly.com/ar/tags/node-red/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://automation.fskelly.com/tags/node-red/"
+                />
+  </url><url>
+    <loc>https://automation.fskelly.com/tags/notification/</loc>
+    <lastmod>2022-03-03T11:29:18+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://automation.fskelly.com/ar/tags/notification/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://automation.fskelly.com/tags/notification/"
+                />
+  </url><url>
+    <loc>https://automation.fskelly.com/post/</loc>
+    <lastmod>2022-03-03T11:29:18+00:00</lastmod>
+  </url><url>
+    <loc>https://automation.fskelly.com/categories/power-monitoring/</loc>
+    <lastmod>2022-03-03T11:29:18+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://automation.fskelly.com/ar/categories/power-monitoring/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://automation.fskelly.com/categories/power-monitoring/"
+                />
+  </url><url>
+    <loc>https://automation.fskelly.com/series/</loc>
+    <lastmod>2022-03-03T11:29:18+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://automation.fskelly.com/ar/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://automation.fskelly.com/series/"
+                />
+  </url><url>
+    <loc>https://automation.fskelly.com/tags/</loc>
+    <lastmod>2022-03-03T11:29:18+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://automation.fskelly.com/ar/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://automation.fskelly.com/tags/"
+                />
+  </url><url>
+    <loc>https://automation.fskelly.com/post/2022/zwaveplugwashingmachinenotifications/</loc>
+    <lastmod>2022-03-03T11:29:18+00:00</lastmod>
   </url><url>
     <loc>https://automation.fskelly.com/tags/esphome/</loc>
     <lastmod>2022-01-17T12:26:36+00:00</lastmod>
@@ -54,35 +151,6 @@
                 href="https://automation.fskelly.com/categories/flashing/"
                 />
   </url><url>
-    <loc>https://automation.fskelly.com/series/home-automation/</loc>
-    <lastmod>2022-01-17T12:26:36+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="https://automation.fskelly.com/ar/series/home-automation/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://automation.fskelly.com/series/home-automation/"
-                />
-  </url><url>
-    <loc>https://automation.fskelly.com/post/</loc>
-    <lastmod>2022-01-17T12:26:36+00:00</lastmod>
-  </url><url>
-    <loc>https://automation.fskelly.com/series/</loc>
-    <lastmod>2022-01-17T12:26:36+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="https://automation.fskelly.com/ar/series/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://automation.fskelly.com/series/"
-                />
-  </url><url>
     <loc>https://automation.fskelly.com/tags/sonoff/</loc>
     <lastmod>2022-01-17T12:26:36+00:00</lastmod>
     <xhtml:link
@@ -98,19 +166,6 @@
   </url><url>
     <loc>https://automation.fskelly.com/post/2022/sonoff4chpror2esphome/</loc>
     <lastmod>2022-01-17T12:26:36+00:00</lastmod>
-  </url><url>
-    <loc>https://automation.fskelly.com/tags/</loc>
-    <lastmod>2022-01-17T12:26:36+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="https://automation.fskelly.com/ar/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://automation.fskelly.com/tags/"
-                />
   </url><url>
     <loc>https://automation.fskelly.com/post/2021/shelly1lamps/</loc>
     <lastmod>2021-01-05T09:10:57+02:00</lastmod>

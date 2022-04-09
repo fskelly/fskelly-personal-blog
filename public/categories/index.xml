@@ -6,7 +6,18 @@
     <description>Recent content in Categories on Automate the House</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 17 Jan 2022 12:26:36 +0000</lastBuildDate><atom:link href="https://automation.fskelly.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 03 Mar 2022 11:29:18 +0000</lastBuildDate><atom:link href="https://automation.fskelly.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>power-monitoring</title>
+      <link>https://automation.fskelly.com/categories/power-monitoring/</link>
+      <pubDate>Thu, 03 Mar 2022 11:29:18 +0000</pubDate>
+      
+      <guid>https://automation.fskelly.com/categories/power-monitoring/</guid>
+      
+        <description></description>
+      
+    </item>
+    
     <item>
       <title>flashing</title>
       <link>https://automation.fskelly.com/categories/flashing/</link>
