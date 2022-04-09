@@ -18,5 +18,4 @@ content
 hugo new post/{{year}}/{{postTitle}}/index.md
 ```
 
-![example workflow](https://github.com/fskelly/automate-the-house-blog/actions/workflows/main.yml/badge.svg)
 [![Build and deploy Hugo static webpage to Azure blob](https://github.com/fskelly/automate-the-house-blog/actions/workflows/hugoDeploy.yml/badge.svg)](https://github.com/fskelly/automate-the-house-blog/actions/workflows/hugoDeploy.yml)
