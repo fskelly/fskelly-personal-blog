@@ -1,7 +1,8 @@
 baseURL = "https://automation.fskelly.com"
 languageCode = "en"
 DefaultContentLanguage = "en"
-title = "Automate the House with Fletcher Kelly"
+#title = "Automate the House with Fletcher Kelly - making my home smarter for me."
+title = "Making your home smarter"
 
 # theme as hugo module
 #theme = "github.com/lxndrblz/anatole"
