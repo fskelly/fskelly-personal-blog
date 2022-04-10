@@ -1,5 +1,5 @@
 ---
-title: "Z-Wave Plug and Washing Machine Notifications"
+title: "Smarter Washing Machine Notifications"
 date: 2022-03-03T11:29:18Z
 Description: ""
 Tags: [node-red, home assistant, notification]
@@ -19,10 +19,10 @@ So how did I do this?
 
 ## Ingredients
 
-In my case, I used **z-wave** as this is what i had, other technology can be used.
+In my case, I used **z-wave** as this is what I had, other technology can be used.
 
 1. Z-Wave or other Power Monitoring Capable plug
-1. Z-Wave Stick (Z‐Stick Gen5 USB Controller)
+1. _Z-Wave Stick (Z‐Stick Gen5 USB Controller), if you are using a Sonoff device that connects to WiFi, a similar result can be achieved._
 1. [Node-RED](https://nodered.org/)
 1. [Home Assistant](https://home-assisatnt.io)
 1. Home Assistant companion app
