@@ -5,6 +5,7 @@ Description: ""
 Tags: [nmcli, networking]
 Categories: [Home Assistant]
 DisableComments: false
+draft: false
 ---
 
 ## What?
