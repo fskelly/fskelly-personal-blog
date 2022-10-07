@@ -6,9 +6,20 @@
     <description>Recent content on Making your home smarter</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 03 Mar 2022 11:29:18 +0000</lastBuildDate><atom:link href="https://automation.fskelly.com/ar/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 07 Oct 2022 09:12:38 +0100</lastBuildDate><atom:link href="https://automation.fskelly.com/ar/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Z-Wave Plug and Washing Machine Notifications</title>
+      <title>Home Assistant Routing</title>
+      <link>https://automation.fskelly.com/ar/english/post/2022/home-assistant-routing/</link>
+      <pubDate>Fri, 07 Oct 2022 09:12:38 +0100</pubDate>
+      
+      <guid>https://automation.fskelly.com/ar/english/post/2022/home-assistant-routing/</guid>
+      
+        <description>What? I am a tinkerer by nature and I often need to move hy Home Assistant instances around and by this, I mean create new instances and DEV versions.</description>
+      
+    </item>
+    
+    <item>
+      <title>Smarter Washing Machine Notifications</title>
       <link>https://automation.fskelly.com/ar/english/post/2022/zwaveplugwashingmachinenotifications/</link>
       <pubDate>Thu, 03 Mar 2022 11:29:18 +0000</pubDate>
       

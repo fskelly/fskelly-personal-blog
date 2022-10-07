@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home Assistant on Automate the House</title>
+    <link>https://automation.fskelly.com/categories/home-assistant/</link>
+    <description>Recent content in Home Assistant on Automate the House</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 07 Oct 2022 09:12:38 +0100</lastBuildDate><atom:link href="https://automation.fskelly.com/categories/home-assistant/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Home Assistant Routing</title>
+      <link>https://automation.fskelly.com/post/2022/home-assistant-routing/</link>
+      <pubDate>Fri, 07 Oct 2022 09:12:38 +0100</pubDate>
+      
+      <guid>https://automation.fskelly.com/post/2022/home-assistant-routing/</guid>
+      
+        <description>What? I am a tinkerer by nature and I often need to move hy Home Assistant instances around and by this, I mean create new instances and DEV versions.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

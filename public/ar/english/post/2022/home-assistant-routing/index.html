@@ -1,0 +1,391 @@
+<!DOCTYPE html>
+<html
+  dir="ltr"
+  lang="ar"
+  data-theme=""
+><head>
+  <title>
+    
+      
+        Home Assistant Routing |
+
+      
+      Fletcher Kelly
+
+
+    
+  </title>
+
+  
+  <meta charset="utf-8" /><meta name="generator" content="Hugo 0.102.3" /><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover" />
+  <meta
+    name="description"
+    content="
+      Automate the house with Fletcher Kelly - helping you to make the most of your home
+
+
+    "
+  />
+  
+  
+  
+  <link
+    rel="stylesheet"
+    href="/css/main.min.24f9f28bfaca2cdc5a222bb5e42d30c701d7ffb0b31d30dfc4afc0e044dfbf24.css"
+    integrity="sha256-JPnyi/rKLNxaIiu15C0wxwHX/7CzHTDfxK/A4ETfvyQ="
+    crossorigin="anonymous"
+    type="text/css"
+  />
+  
+  
+  <link
+    rel="stylesheet"
+    href="/css/markupHighlight.min.058b31f17db60602cc415fd63b0427e7932fbf35c70d8e341a4c39385f5f6f3e.css"
+    integrity="sha256-BYsx8X22BgLMQV/WOwQn55MvvzXHDY40Gkw5OF9fbz4="
+    crossorigin="anonymous"
+    type="text/css"
+  />
+  
+  <link
+    rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css"
+    integrity="sha512-+4zCK9k+qNFUR5X+cKL9EIR+ZOhtIloNl9GIKS57V1MyNsYpYcUrUeQc9vNfzsWfV28IaLL3i96P9sdNyeRssA=="
+    crossorigin="anonymous"
+  />
+  
+  <link rel="shortcut icon" href="/favicons/favicon.ico" type="image/x-icon" />
+  <link rel="apple-touch-icon" sizes="180x180" href="/favicons/apple-touch-icon.png" />
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicons/favicon-32x32.png" />
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicons/favicon-16x16.png" />
+
+  <link rel="canonical" href="https://automation.fskelly.com/ar/english/post/2022/home-assistant-routing/" />
+
+  
+  
+  
+  
+  <script
+    type="text/javascript"
+    src="/js/anatole-header.min.d0408165d31a17f17bba83038bf54e86121f85021bdf936382e636f0f77a952f.js"
+    integrity="sha256-0ECBZdMaF/F7uoMDi/VOhhIfhQIb35NjguY28Pd6lS8="
+    crossorigin="anonymous"
+  ></script>
+
+  
+    
+    
+    <script
+      type="text/javascript"
+      src="/js/anatole-theme-switcher.min.ea8ebe268922ef9849261a1312cd65b640595e65251ce4c00534a176afd1ac0c.js"
+      integrity="sha256-6o6&#43;Joki75hJJhoTEs1ltkBZXmUlHOTABTShdq/RrAw="
+      crossorigin="anonymous"
+    ></script>
+
+  
+  <meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:image" content="https://automation.fskelly.com/images/cropped-blog-header.jpg"/>
+
+<meta name="twitter:title" content="Home Assistant Routing"/>
+<meta name="twitter:description" content="What? I am a tinkerer by nature and I often need to move hy Home Assistant instances around and by this, I mean create new instances and DEV versions."/>
+
+
+
+  <meta property="og:title" content="Home Assistant Routing" />
+<meta property="og:description" content="What? I am a tinkerer by nature and I often need to move hy Home Assistant instances around and by this, I mean create new instances and DEV versions." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://automation.fskelly.com/ar/english/post/2022/home-assistant-routing/" /><meta property="og:image" content="https://automation.fskelly.com/images/cropped-blog-header.jpg"/><meta property="article:section" content="english" />
+<meta property="article:published_time" content="2022-10-07T09:12:38+01:00" />
+<meta property="article:modified_time" content="2022-10-07T09:12:38+01:00" /><meta property="og:site_name" content="Automate the house" />
+
+
+
+
+  
+  
+  
+  
+  <script type="application/ld+json">
+    {
+        "@context": "http://schema.org",
+        "@type": "BlogPosting",
+        "articleSection": "english",
+        "name": "Home Assistant Routing",
+        "headline": "Home Assistant Routing",
+        "alternativeHeadline": "",
+        "description": "
+      
+        What? I am a tinkerer by nature and I often need to move hy Home Assistant instances around and by this, I mean create new instances and DEV versions.
+
+
+      
+
+
+    ",
+        "inLanguage": "en",
+        "isFamilyFriendly": "true",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https:\/\/automation.fskelly.com\/ar\/english\/post\/2022\/home-assistant-routing\/"
+        },
+        "author" : {
+            "@type": "Person",
+            "name": "Fletcher Kelly"
+        },
+        "creator" : {
+            "@type": "Person",
+            "name": "Fletcher Kelly"
+        },
+        "accountablePerson" : {
+            "@type": "Person",
+            "name": "Fletcher Kelly"
+        },
+        "copyrightHolder" : {
+            "@type": "Person",
+            "name": "Fletcher Kelly"
+        },
+        "copyrightYear" : "2022",
+        "dateCreated": "2022-10-07T09:12:38.00Z",
+        "datePublished": "2022-10-07T09:12:38.00Z",
+        "dateModified": "2022-10-07T09:12:38.00Z",
+        "publisher":{
+            "@type":"Organization",
+            "name": "Fletcher Kelly",
+            "url": "https://automation.fskelly.com",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https:\/\/automation.fskelly.com\/favicons\/favicon-32x32.png",
+                "width":"32",
+                "height":"32"
+            }
+        },
+        "image": 
+      [
+        
+        "https://automation.fskelly.com/images/cropped-blog-header.jpg"
+
+
+      
+      ]
+
+    ,
+        "url" : "https:\/\/automation.fskelly.com\/ar\/english\/post\/2022\/home-assistant-routing\/",
+        "wordCount" : "241",
+        "genre" : [ 
+      
+      "Home Assistant"
+
+    ],
+        "keywords" : [ 
+      
+      "nmcli"
+
+    
+      
+        ,
+
+      
+      "networking"
+
+    ]
+    }
+  </script>
+
+
+
+</head>
+<body>
+    <header><div
+  class="page-top 
+    animated fadeInDown
+
+  "
+>
+  <a role="button" class="navbar-burger" data-target="navMenu" aria-label="menu" aria-expanded="false">
+    <span aria-hidden="true"></span>
+    <span aria-hidden="true"></span>
+    <span aria-hidden="true"></span>
+  </a>
+  <nav>
+    <ul class="nav__list" id="navMenu">
+      <div class="nav__links">
+        
+        
+      </div>
+      <ul>
+        
+        
+          <li>
+            <a class="theme-switch" title="Switch Theme">
+              <i class="fas fa-adjust fa-fw" aria-hidden="true"></i>
+            </a>
+          </li>
+
+        
+      </ul>
+    </ul>
+  </nav>
+</div>
+</header>
+    <div class="wrapper">
+      <aside><div
+  class="sidebar
+    animated fadeInDown
+
+  "
+>
+  <div class="sidebar__content">
+    <div class="logo-title">
+      <div class="title">
+        <img src="/images/smart-home-g9e0b1298f_640.jpg" alt="profile picture" />
+        <h3 title=""><a href="/ar">Automate the house</a></h3>
+        <div class="description">
+          <p>Automate the house with Fletcher Kelly - helping you to make the most of your home</p>
+        </div>
+      </div>
+    </div>
+    <ul class="social-links">
+      
+        <li>
+          <a href="https://www.linkedin.com/in/fletcherkelly" rel="me" aria-label="Linkedin" title="Linkedin">
+            <i class="fab fa-linkedin fa-2x" aria-hidden="true"></i>
+          </a>
+        </li>
+
+      
+        <li>
+          <a href="https://github.com/fskelly/" rel="me" aria-label="GitHub" title="GitHub">
+            <i class="fab fa-github fa-2x" aria-hidden="true"></i>
+          </a>
+        </li>
+
+      
+        <li>
+          <a href="https://www.twitter.com/fskelly/" rel="me" aria-label="Twitter" title="Twitter">
+            <i class="fab fa-twitter fa-2x" aria-hidden="true"></i>
+          </a>
+        </li>
+
+      
+        <li>
+          <a href="" rel="me" aria-label="" title="">
+            <i class=" fa-2x" aria-hidden="true"></i>
+          </a>
+        </li>
+
+      
+    </ul>
+  </div><footer class="footer footer--sidebar">
+  <div class="by_farbox">
+    <ul class="footer__list">
+      <li class="footer__item">
+        &copy;
+        
+          Fletcher Kelly
+          2022
+
+
+        
+      </li>
+      
+    </ul>
+  </div>
+</footer>
+  
+  <script
+    type="text/javascript"
+    src="/js/medium-zoom.min.44288fd315b6cda68c1f4743caad56535c0f81a5b5a672f385e82b3896575c1d.js"
+    integrity="sha256-RCiP0xW2zaaMH0dDyq1WU1wPgaW1pnLzhegrOJZXXB0="
+    crossorigin="anonymous"
+  ></script></div>
+</aside>
+      <main>
+        <div class="autopagerize_page_element">
+          <div class="content">
+  <div
+    class="post 
+      animated fadeInDown
+
+    "
+  >
+    <div class="post-content">
+      
+      <div class="post-title">
+        <h1>Home Assistant Routing</h1>
+        
+      </div><h2 id="what">What?</h2>
+<p>I am a tinkerer by nature and I often need to move hy Home Assistant instances around and by this, I mean create new instances and DEV versions. As complication of this, sometimes my <a href="https://account.ui.com/login">UNIFI</a> controller in not available and as such the following components are not available to me.</p>
+<ol>
+<li>DHCP</li>
+<li>VLans</li>
+<li>Full DNS</li>
+<li>Routing between Vlans</li>
+</ol>
+<p>As a geek, I do not allow this to deter me</p>
+<h2 id="the-fix">The fix</h2>
+<p>The fix is quite easy if you understand your networking and you have access to the <a href="https://github.com/hassio-addons/addon-ssh">Home Assistant Terminal</a>. This can also be achieved with a physical connection (keyboard and mouse) or an SSH session to the Home assistant Instance.</p>
+<p>I have a few vlans and ranges in my network and I need access to the following ranges. I have subnetted for smaller ranges.</p>
+<ol>
+<li>192.168.37.0/25 (CIDR 1)</li>
+<li>192.168.32.0/26 (CIDR 2)</li>
+<li>192.168.1.254 (Router)</li>
+<li>Network card name (Supervisor enp0s25)</li>
+</ol>
+<p>you will need to know the IP address of your router</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">nmcli connection show
+</span></span><span class="line"><span class="cl">nmcli connection modify <span class="s2">&#34;Supervisor enp0s25&#34;</span> +ipv4.routes <span class="s2">&#34;192.168.37.0/25 192.168.1.254&#34;</span>
+</span></span><span class="line"><span class="cl">nmcli connection modify <span class="s2">&#34;Supervisor enp0s25&#34;</span> +ipv4.routes <span class="s2">&#34;192.168.32.0/26 192.168.1.254&#34;</span>
+</span></span></code></pre></div><p>This will take care of the Linux piece from Home Assistant. I have a Windows machine and my machine needs access to the same resources. I chose not to add these as persistent routes as usually the outage is limited and my Unifi and full functionality is usually restored quite quickly.</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-powershell" data-lang="powershell"><span class="line"><span class="cl"><span class="n">route</span> <span class="n">ADD</span> <span class="n">192</span><span class="p">.</span><span class="n">168</span><span class="p">.</span><span class="n">37</span><span class="p">.</span><span class="n">0</span> <span class="n">mask</span> <span class="n">255</span><span class="p">.</span><span class="n">255</span><span class="p">.</span><span class="n">255</span><span class="p">.</span><span class="n">128</span> <span class="n">192</span><span class="p">.</span><span class="n">168</span><span class="p">.</span><span class="n">1</span><span class="p">.</span><span class="n">254</span>
+</span></span><span class="line"><span class="cl"><span class="n">route</span> <span class="n">ADD</span> <span class="n">192</span><span class="p">.</span><span class="n">168</span><span class="p">.</span><span class="n">32</span><span class="p">.</span><span class="n">0</span> <span class="n">mask</span> <span class="n">255</span><span class="p">.</span><span class="n">255</span><span class="p">.</span><span class="n">255</span><span class="p">.</span><span class="n">192</span> <span class="n">192</span><span class="p">.</span><span class="n">168</span><span class="p">.</span><span class="n">1</span><span class="p">.</span><span class="n">254</span>
+</span></span></code></pre></div></div>
+    <div class="post-footer">
+      <div class="info">
+        
+          <span class="separator"><a class="category" href="/ar/categories/home-assistant/">Home Assistant</a></span>
+
+
+
+
+        
+
+        
+          <span class="separator"><a class="tag" href="/ar/tags/nmcli/">nmcli</a><a class="tag" href="/ar/tags/networking/">networking</a></span>
+
+
+
+
+        
+      </div>
+    </div>
+
+    
+  </div>
+
+
+          </div>
+        </div>
+      </main>
+    </div><footer class="footer footer--base">
+  <div class="by_farbox">
+    <ul class="footer__list">
+      <li class="footer__item">
+        &copy;
+        
+          Fletcher Kelly
+          2022
+
+
+        
+      </li>
+      
+    </ul>
+  </div>
+</footer>
+  
+  <script
+    type="text/javascript"
+    src="/js/medium-zoom.min.44288fd315b6cda68c1f4743caad56535c0f81a5b5a672f385e82b3896575c1d.js"
+    integrity="sha256-RCiP0xW2zaaMH0dDyq1WU1wPgaW1pnLzhegrOJZXXB0="
+    crossorigin="anonymous"
+  ></script></body>
+</html>

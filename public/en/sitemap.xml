@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://automation.fskelly.com/</loc>
-    <lastmod>2022-03-03T11:29:18+00:00</lastmod>
+    <lastmod>2022-10-07T09:12:38+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
@@ -16,7 +16,7 @@
                 />
   </url><url>
     <loc>https://automation.fskelly.com/categories/</loc>
-    <lastmod>2022-03-03T11:29:18+00:00</lastmod>
+    <lastmod>2022-10-07T09:12:38+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
@@ -26,6 +26,64 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://automation.fskelly.com/categories/"
+                />
+  </url><url>
+    <loc>https://automation.fskelly.com/categories/home-assistant/</loc>
+    <lastmod>2022-10-07T09:12:38+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://automation.fskelly.com/ar/categories/home-assistant/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://automation.fskelly.com/categories/home-assistant/"
+                />
+  </url><url>
+    <loc>https://automation.fskelly.com/post/2022/home-assistant-routing/</loc>
+    <lastmod>2022-10-07T09:12:38+01:00</lastmod>
+  </url><url>
+    <loc>https://automation.fskelly.com/tags/networking/</loc>
+    <lastmod>2022-10-07T09:12:38+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://automation.fskelly.com/ar/tags/networking/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://automation.fskelly.com/tags/networking/"
+                />
+  </url><url>
+    <loc>https://automation.fskelly.com/tags/nmcli/</loc>
+    <lastmod>2022-10-07T09:12:38+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://automation.fskelly.com/ar/tags/nmcli/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://automation.fskelly.com/tags/nmcli/"
+                />
+  </url><url>
+    <loc>https://automation.fskelly.com/post/</loc>
+    <lastmod>2022-10-07T09:12:38+01:00</lastmod>
+  </url><url>
+    <loc>https://automation.fskelly.com/tags/</loc>
+    <lastmod>2022-10-07T09:12:38+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://automation.fskelly.com/ar/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://automation.fskelly.com/tags/"
                 />
   </url><url>
     <loc>https://automation.fskelly.com/tags/home-assistant/</loc>
@@ -80,9 +138,6 @@
                 href="https://automation.fskelly.com/tags/notification/"
                 />
   </url><url>
-    <loc>https://automation.fskelly.com/post/</loc>
-    <lastmod>2022-03-03T11:29:18+00:00</lastmod>
-  </url><url>
     <loc>https://automation.fskelly.com/categories/power-monitoring/</loc>
     <lastmod>2022-03-03T11:29:18+00:00</lastmod>
     <xhtml:link
@@ -107,19 +162,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://automation.fskelly.com/series/"
-                />
-  </url><url>
-    <loc>https://automation.fskelly.com/tags/</loc>
-    <lastmod>2022-03-03T11:29:18+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="https://automation.fskelly.com/ar/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://automation.fskelly.com/tags/"
                 />
   </url><url>
     <loc>https://automation.fskelly.com/post/2022/zwaveplugwashingmachinenotifications/</loc>
